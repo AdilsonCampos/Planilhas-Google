@@ -24,7 +24,7 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1x7mZCxw0q3Lcl2jbZFDt9L1BWDbCItmVevA3t_IhmIY'
+SAMPLE_SPREADSHEET_ID = ''
 SAMPLE_RANGE_NAME = 'Folha de pagamento!A1:I30'
 
 
@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1x7mZCxw0q3Lcl2jbZFDt9L1BWDbCItmVevA3t_IhmIY'
+SAMPLE_SPREADSHEET_ID = ''
 SAMPLE_RANGE_NAME = 'Banco!A1:H37'
 
 
@@ -196,7 +196,7 @@ if __name__ == '__main__':
 
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1x7mZCxw0q3Lcl2jbZFDt9L1BWDbCItmVevA3t_IhmIY'
+SAMPLE_SPREADSHEET_ID = ''
 SAMPLE_RANGE_NAME = 'Caixa!A1:H37'
 
 
